@@ -69,6 +69,7 @@ const App = () => {
       <DeckList deck={ deck }
         addCardToDeck={ addCardToDeck }
         removeCardFromDeck={ removeCardFromDeck } />
+
     </div>
   );
 }
